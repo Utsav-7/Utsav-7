@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Cloud computing, Kubernates, Docker, etc.**
 
-- 💬 Ask me about **Web Development, Linux**
+- 💬 Ask me about **Web Development, Linux, DevOps**
 
 - 📫 How to reach me **utsavkatharotiya0712@gmail.com**
 
