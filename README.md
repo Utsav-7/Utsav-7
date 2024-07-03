@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsav-7&label=Profile%20views&color=0e75b6&style=flat" alt="utsav-7" /> </p>
 
-- 🌱 I’m currently learning **Cloud computing, Kubernates, Docker, etc.**
+- 🌱 Currently, I am learning **Cloud computing, Kubernates, Docker, etc.**
 
 - 💬 Ask me about **Web Development, Linux, DevOps**
 
