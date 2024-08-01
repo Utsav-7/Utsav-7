@@ -140,11 +140,12 @@
 <!-- GitHub Stats -->
 <div style="border: 3px double #333; padding: 10px; border-radius: 5px; margin-bottom: 20px;">
   <h3 align="center">GitHub Stats:</h3>
+   <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utsav-7&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  </p>
   <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=utsav-7&show_icons=true&locale=en" alt="GitHub Stats" style="max-width: 100%; height: auto;"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=utsav-7" alt="GitHub Streak" style="max-width: 100%; height: auto;"/>
   </div>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utsav-7&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  </p>
+ 
 </div>
