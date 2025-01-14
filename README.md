@@ -137,7 +137,7 @@
   </p>
   <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=utsav-7&show_icons=true&locale=en" alt="GitHub Stats" style="max-width: 100%; height: auto;"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=utsav-7" alt="GitHub Streak" style="max-width: 100%; height: auto;"/>
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=utsav-7" alt="GitHub Streak" style="max-width: 100%; height: auto;"/> -->
   </div>
  
 </div>
