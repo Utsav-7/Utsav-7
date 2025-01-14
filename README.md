@@ -18,12 +18,12 @@
   <a href="https://linkedin.com/in/utsav-katharotiya" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/utsav-katharotiya" target="blank">
+<!--   <a href="https://stackoverflow.com/users/utsav-katharotiya" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/utsavkatharotiya0712" target="blank">
+  </a> -->
+<!--   <a href="https://medium.com/utsavkatharotiya0712" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-  </a>
+  </a> -->
   <a href="https://www.codechef.com/users/utsav_0712" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
   </a>
